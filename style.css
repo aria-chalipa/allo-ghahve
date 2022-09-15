@@ -145,7 +145,11 @@ hr{
     margin-top: -150px;
 }
 
-
+@media (max-width:380px){
+     .img2{
+          margin:-165px 0 0 524px;
+          }
+      }    
 
 @media (min-width:381px) {
     #navigation{
